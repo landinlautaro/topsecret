@@ -39,4 +39,11 @@ La API estará disponible en `http://localhost:8080`.
 - `GET /topsecret/topsecret_split`
 
   Obtiene la posición y el mensaje una vez que se ha recibido información de al menos tres satélites.
+  ## Pruebas
+
+Puedes ejecutar las pruebas con:
+
+```bash
+./mvnw test
+```
 
