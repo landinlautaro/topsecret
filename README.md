@@ -4,7 +4,7 @@ Esta es una API REST construida con Spring Boot que permite calcular la posició
 
 ## Requisitos
 
-- **Java 17 o superior** (recomendado Java 21). Asegúrate de tener `JAVA_HOME` configurado.
+- **Java 17 o superior** (recomendado Java 17). Asegúrate de tener `JAVA_HOME` configurado.
 - **Maven**. En este proyecto se incluye el *wrapper* (`mvnw`), por lo que no es necesario tener Maven instalado previamente.
 
 ## Ejecución en local
