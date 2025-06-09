@@ -10,13 +10,8 @@ Esta es una API REST construida con Spring Boot que permite calcular la posició
 ## Ejecución en local
 
 1. Clona este repositorio y sitúate en la raíz del proyecto.
-2. Concede permisos de ejecución al wrapper de Maven:
 
-   ```bash
-   chmod +x mvnw
-   ```
-
-3. Compila y ejecuta la aplicación con:
+2. Compila y ejecuta la aplicación con:
 
    ```bash
    ./mvnw spring-boot:run
@@ -44,12 +39,4 @@ La API estará disponible en `http://localhost:8080`.
 - `GET /topsecret/topsecret_split`
 
   Obtiene la posición y el mensaje una vez que se ha recibido información de al menos tres satélites.
-
-## Pruebas
-
-Puedes ejecutar las pruebas con:
-
-```bash
-./mvnw test
-```
 
