@@ -12,7 +12,7 @@
 	<artifactId>topsecret</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>topsecret</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Service for decoding satellite messages and locations.</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>24</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
